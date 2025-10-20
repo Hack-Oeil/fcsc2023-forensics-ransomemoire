@@ -9,13 +9,6 @@ Le flag (insensible à la casse) est au format ```FCSC{<pid>:<protocole>:<port>}
 
 
 
-Le flag (insensible à la casse) est au format ```FCSC{<nom d'utilisateur>:<nom de la machine>:<nom du navigateur>}``` où :
-
-```<nom d'utilisateur>``` est le nom de l'utilisateur qui utilise la machine,
-```<nom de la machine>``` est le nom de la machine analysée et
-```<nom du navigateur>``` est le nom du navigateur en cours d'exécution.
-Par exemple : FCSC{toto:Ordinateur-de-jojo:Firefox}.
-
 Cette épreuve a été découpée en quatre parties :
 - [Ransomémoire 0/3 - Pour commencer](README_0_3.md).
 - [Ransomémoire 1/3 - Mon précieux](README_1_3.md).
